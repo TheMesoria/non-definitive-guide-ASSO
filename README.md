@@ -46,6 +46,8 @@ system operacyjny ze zintegrowanym w jądrze stosem sieciowym. Zawiera sterownik
      - liczba glowna (major) identyfikuje sterownik
      - liczba poboczna (minor) przekazywana do sterownika
 
+[READ MORE](http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/)
+
 ---
 
 ## Podstawowe funkcje interfejsu znakowego:
@@ -117,4 +119,7 @@ są to fragmenty jądra dołączane opcjonalnie, moga byc dynamicznie ładowane 
 
 ---
 
-# <Wykład 2>
+# Wykład 2
+
+---
+
